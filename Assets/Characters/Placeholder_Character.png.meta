@@ -1,0 +1,1501 @@
+fileFormatVersion: 2
+guid: b457546e658c21944bd01b8438ecaf66
+timeCreated: 1481925451
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Placeholder_Character_0
+    21300002: Placeholder_Character_1
+    21300004: Placeholder_Character_2
+    21300006: Placeholder_Character_3
+    21300008: Placeholder_Character_4
+    21300010: Placeholder_Character_5
+    21300012: Placeholder_Character_6
+    21300014: Placeholder_Character_7
+    21300016: Placeholder_Character_8
+    21300018: Placeholder_Character_9
+    21300020: Placeholder_Character_10
+    21300022: Placeholder_Character_11
+    21300024: Placeholder_Character_12
+    21300026: Placeholder_Character_13
+    21300028: Placeholder_Character_14
+    21300030: Placeholder_Character_15
+    21300032: Placeholder_Character_16
+    21300034: Placeholder_Character_17
+    21300036: Placeholder_Character_18
+    21300038: Placeholder_Character_19
+    21300040: Placeholder_Character_20
+    21300042: Placeholder_Character_21
+    21300044: Placeholder_Character_22
+    21300046: Placeholder_Character_23
+    21300048: Placeholder_Character_24
+    21300050: Placeholder_Character_25
+    21300052: Placeholder_Character_26
+    21300054: Placeholder_Character_27
+    21300056: Placeholder_Character_28
+    21300058: Placeholder_Character_29
+    21300060: Placeholder_Character_30
+    21300062: Placeholder_Character_31
+    21300064: Placeholder_Character_32
+    21300066: Placeholder_Character_33
+    21300068: Placeholder_Character_34
+    21300070: Placeholder_Character_35
+    21300072: Placeholder_Character_36
+    21300074: Placeholder_Character_37
+    21300076: Placeholder_Character_38
+    21300078: Placeholder_Character_39
+    21300080: Placeholder_Character_40
+    21300082: Placeholder_Character_41
+    21300084: Placeholder_Character_42
+    21300086: Placeholder_Character_43
+    21300088: Placeholder_Character_44
+    21300090: Placeholder_Character_45
+    21300092: Placeholder_Character_46
+    21300094: Placeholder_Character_47
+    21300096: Placeholder_Character_48
+    21300098: Placeholder_Character_49
+    21300100: Placeholder_Character_50
+    21300102: Placeholder_Character_51
+    21300104: Placeholder_Character_52
+    21300106: Placeholder_Character_53
+    21300108: Placeholder_Character_54
+    21300110: Placeholder_Character_55
+    21300112: Placeholder_Character_56
+    21300114: Placeholder_Character_57
+    21300116: Placeholder_Character_58
+    21300118: Placeholder_Character_59
+    21300120: Placeholder_Character_60
+    21300122: Placeholder_Character_61
+    21300124: Placeholder_Character_62
+    21300126: Placeholder_Character_63
+    21300128: Placeholder_Character_64
+    21300130: Placeholder_Character_65
+    21300132: Placeholder_Character_66
+    21300134: Placeholder_Character_67
+    21300136: Placeholder_Character_68
+    21300138: Placeholder_Character_69
+    21300140: Placeholder_Character_70
+    21300142: Placeholder_Character_71
+    21300144: Placeholder_Character_72
+    21300146: Placeholder_Character_73
+    21300148: Placeholder_Character_74
+    21300150: Placeholder_Character_75
+    21300152: Placeholder_Character_76
+    21300154: Placeholder_Character_77
+    21300156: Placeholder_Character_78
+    21300158: Placeholder_Character_79
+    21300160: Placeholder_Character_80
+    21300162: Placeholder_Character_81
+    21300164: Placeholder_Character_82
+    21300166: Placeholder_Character_83
+    21300168: Placeholder_Character_84
+    21300170: Placeholder_Character_85
+    21300172: Placeholder_Character_86
+    21300174: Placeholder_Character_87
+    21300176: Placeholder_Character_88
+    21300178: Placeholder_Character_89
+    21300180: Placeholder_Character_90
+    21300182: Placeholder_Character_91
+    21300184: Placeholder_Character_92
+    21300186: Placeholder_Character_93
+    21300188: Placeholder_Character_94
+    21300190: Placeholder_Character_95
+    21300192: Placeholder_Character_96
+    21300194: Placeholder_Character_97
+    21300196: Placeholder_Character_98
+    21300198: Placeholder_Character_99
+    21300200: Placeholder_Character_100
+    21300202: Placeholder_Character_101
+    21300204: Placeholder_Character_102
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Placeholder_Character_0
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 705
+        width: 40
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Placeholder_Character_1
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 705
+        width: 40
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Placeholder_Character_2
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 705
+        width: 40
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Placeholder_Character_3
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 705
+        width: 40
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Placeholder_Character_4
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 705
+        width: 40
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Placeholder_Character_5
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 705
+        width: 40
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Placeholder_Character_6
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 705
+        width: 40
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Placeholder_Character_7
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 705
+        width: 40
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Placeholder_Character_8
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 705
+        width: 40
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Placeholder_Character_9
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 715
+        width: 4
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Placeholder_Character_10
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 715
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Placeholder_Character_11
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 715
+        width: 12
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Placeholder_Character_12
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 715
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Placeholder_Character_13
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 631
+        width: 40
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Placeholder_Character_14
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 631
+        width: 40
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Placeholder_Character_15
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 631
+        width: 40
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Placeholder_Character_16
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 631
+        width: 40
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Placeholder_Character_17
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 642
+        width: 29
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Placeholder_Character_18
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 642
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Placeholder_Character_19
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 642
+        width: 12
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Placeholder_Character_20
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 642
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Placeholder_Character_21
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 549
+        width: 41
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Placeholder_Character_22
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 547
+        width: 41
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Placeholder_Character_23
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 563
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Placeholder_Character_24
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 563
+        width: 12
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Placeholder_Character_25
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 563
+        width: 4
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Placeholder_Character_26
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 563
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Placeholder_Character_27
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 563
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Placeholder_Character_28
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 557
+        width: 8
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Placeholder_Character_29
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 563
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Placeholder_Character_30
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 563
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Placeholder_Character_31
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 563
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Placeholder_Character_32
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 563
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Placeholder_Character_33
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 557
+        width: 8
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Placeholder_Character_34
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 480
+        width: 41
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Placeholder_Character_35
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 480
+        width: 41
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Placeholder_Character_36
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 497
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Placeholder_Character_37
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 497
+        width: 12
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Placeholder_Character_38
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 497
+        width: 4
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Placeholder_Character_39
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 497
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Placeholder_Character_40
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 497
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Placeholder_Character_41
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 491
+        width: 8
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Placeholder_Character_42
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 497
+        width: 31
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Placeholder_Character_43
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 497
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Placeholder_Character_44
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 497
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Placeholder_Character_45
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 497
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Placeholder_Character_46
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 497
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Placeholder_Character_47
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 491
+        width: 8
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Placeholder_Character_48
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 398
+        width: 40
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Placeholder_Character_49
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 401
+        width: 40
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Placeholder_Character_50
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 398
+        width: 40
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Placeholder_Character_51
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 415
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Placeholder_Character_52
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 415
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Placeholder_Character_53
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 415
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Placeholder_Character_54
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 415
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Placeholder_Character_55
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 415
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Placeholder_Character_56
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 415
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Placeholder_Character_57
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 415
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Placeholder_Character_58
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 415
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Placeholder_Character_59
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 415
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Placeholder_Character_60
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 305
+        width: 40
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Placeholder_Character_61
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 307
+        width: 40
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Placeholder_Character_62
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 308
+        width: 41
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Placeholder_Character_63
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 307
+        width: 40
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Placeholder_Character_64
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 305
+        width: 40
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Placeholder_Character_65
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 322
+        width: 9
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Placeholder_Character_66
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 322
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Placeholder_Character_67
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 322
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Placeholder_Character_68
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 322
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Placeholder_Character_69
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 4
+        width: 240
+        height: 366
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Placeholder_Character_70
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 211
+        width: 40
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Placeholder_Character_71
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 213
+        width: 40
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Placeholder_Character_72
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 214
+        width: 40
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Placeholder_Character_73
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 213
+        width: 40
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Placeholder_Character_74
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 211
+        width: 40
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Placeholder_Character_75
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 230
+        width: 9
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Placeholder_Character_76
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 230
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Placeholder_Character_77
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 230
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Placeholder_Character_78
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 230
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Placeholder_Character_79
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 230
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Placeholder_Character_80
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 230
+        width: 33
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Placeholder_Character_81
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 230
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Placeholder_Character_82
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 115
+        width: 40
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Placeholder_Character_83
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 115
+        width: 43
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Placeholder_Character_84
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 115
+        width: 39
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Placeholder_Character_85
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 115
+        width: 47
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Placeholder_Character_86
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 115
+        width: 52
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Placeholder_Character_87
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 115
+        width: 58
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Placeholder_Character_88
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 126
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Placeholder_Character_89
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 126
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Placeholder_Character_90
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 126
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Placeholder_Character_91
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 126
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Placeholder_Character_92
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 126
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Placeholder_Character_93
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 16
+        width: 40
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Placeholder_Character_94
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 16
+        width: 40
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Placeholder_Character_95
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 16
+        width: 41
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Placeholder_Character_96
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 16
+        width: 40
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Placeholder_Character_97
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 16
+        width: 41
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Placeholder_Character_98
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 16
+        width: 40
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Placeholder_Character_99
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 16
+        width: 40
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Placeholder_Character_100
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 30
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Placeholder_Character_101
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 30
+        width: 33
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Placeholder_Character_102
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 30
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
