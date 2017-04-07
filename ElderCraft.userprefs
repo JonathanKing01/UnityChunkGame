@@ -1,0 +1,14 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Characters\Equipped.cs">
+    <Files>
+      <File FileName="Assets\MouseCursor.cs" Line="1" Column="1" />
+      <File FileName="Assets\Characters\Equipped.cs" Line="20" Column="2" />
+      <File FileName="Assets\Chunks\Tiles\BlockManager.cs" Line="10" Column="41" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
